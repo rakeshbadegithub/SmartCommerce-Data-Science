@@ -12,3 +12,5 @@ models/*.pkl
 models/*.joblib
 .DS_Store
 Thumbs.db
+# Notebook-generated data
+notebooks/data/
